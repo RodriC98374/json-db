@@ -21,21 +21,6 @@
             "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
             "views":"300"
         
-        },{
-            "id":"4",
-            "nameCourse":"Base de Datos",
-            "imageCourse":"https://cdn.pixabay.com/photo/2016/04/25/18/07/halcyon-1352522__340.jpg",
-            "viewsCourse":"150"
-        },{
-            "id":"5",
-            "nameCourse":"Base de Datos",
-            "imageCourse":"https://cdn.pixabay.com/photo/2020/07/03/16/42/amsterdam-5367020__340.jpg",
-            "viewsCourse":"187"
-        },{
-            "id":"6",
-            "nameCourse":"Base de Datos",
-            "imageCourse":"https://cdn.pixabay.com/photo/2019/10/26/06/02/bokeh-4578758__340.jpg",
-            "viewsCourse":"294"
         }
     ]
 }
