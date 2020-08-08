@@ -4,6 +4,7 @@
             "id":"1",
             "title":"Tema I: Sistemas Operativos",
             "name":"Taller de Sistemas operativos",
+            "course":"TSO",
             "image":"https://cdn.pixabay.com/photo/2020/07/23/07/10/market-5430564__340.jpg",
             "url":"https://www.youtube.com/embed/tAGnKpE4NCI",
             "views":"100"
@@ -12,6 +13,7 @@
             "id":"2",
             "title":"Tema I: Sistemas Operativos",
             "name":"Taller de Sistemas operativos",
+            "course":"TSO",
             "image":"https://cdn.pixabay.com/photo/2017/07/11/18/07/market-2494520__340.jpg",
             "url":"https://www.youtube.com/embed/dkNfNR1WYMY",
             "views":"200"
@@ -20,6 +22,26 @@
             "id":"3",
             "title":"Tema I: Sistemas Operativos",
             "name":"Taller de Sistemas operativos",
+            "course":"TSO",
+            "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
+            "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
+            "views":"300"
+        },
+        {
+            "id":"4",
+            "title":"Diagrama entidad relacion",
+            "name":"Base de Datos",
+            "course":"TSO",
+            "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
+            "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
+            "views":"300"
+        
+        },
+        {
+            "id":"5",
+            "title":"Tema I: Sistemas Operativos",
+            "name":"Base de Datos",
+            "course":"BDI",
             "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
             "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
             "views":"300"
