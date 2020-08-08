@@ -2,50 +2,160 @@
     "videos": [
         {
             "id":"1",
-            "title":"Tema I: Sistemas Operativos",
-            "name":"Taller de Sistemas operativos",
+            "title":"Tema 3 Semaforos",
             "course":"TSO",
-            "image":"https://cdn.pixabay.com/photo/2020/07/23/07/10/market-5430564__340.jpg",
-            "url":"https://www.youtube.com/embed/tAGnKpE4NCI",
-            "views":"100"
-        }, 
-        {
+            "url":"https://www.youtube.com/embed/7WT5T77oV4s",
+            "image":"https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275__340.jpg"
+        }, {
             "id":"2",
-            "title":"Tema I: Sistemas Operativos",
-            "name":"Taller de Sistemas operativos",
+            "title":"Tema 3 Monitores",
             "course":"TSO",
-            "image":"https://cdn.pixabay.com/photo/2017/07/11/18/07/market-2494520__340.jpg",
-            "url":"https://www.youtube.com/embed/dkNfNR1WYMY",
-            "views":"200"
-        }, 
-        {
+            "url":"https://www.youtube.com/embed/aSo11oDIYXc",
+            "image":"https://cdn.pixabay.com/photo/2016/11/24/20/48/programming-1857236__340.jpg"
+        }, {
             "id":"3",
-            "title":"Tema I: Sistemas Operativos",
-            "name":"Taller de Sistemas operativos",
+            "title":"Tema 3 Problemas clasicos de sincronizacion",
             "course":"TSO",
-            "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
-            "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
-            "views":"300"
-        },
-        {
+            "url":"https://www.youtube.com/embed/irofW2-R9fg",
+            "image":"https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869__340.jpg"
+        }, {
             "id":"4",
-            "title":"Diagrama entidad relacion",
-            "name":"Base de Datos",
+            "title":"Tema 4 Interbloqueos (Prevencion)",
             "course":"TSO",
-            "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
-            "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
-            "views":"300"
-        
-        },
-        {
+            "url":"https://www.youtube.com/embed/juCR6P45R0Y",
+            "image":"https://cdn.pixabay.com/photo/2014/12/11/22/07/pins-564775__340.jpg"
+        }, {
             "id":"5",
-            "title":"Tema I: Sistemas Operativos",
-            "name":"Base de Datos",
-            "course":"BDI",
-            "image":"https://cdn.pixabay.com/photo/2020/06/02/01/33/sakura-5248955__340.jpg",
-            "url":"https://www.youtube.com/embed/iT6vqeL-ysI",
-            "views":"300"
-        
+            "title":"Tema 4 Interbloqueos (Deteccion de errores)",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/iEsaVhj61wg",
+            "image":"https://cdn.pixabay.com/photo/2015/12/09/15/51/code-1084923__340.png"
+        }, {
+            "id":"6",
+            "title":"Tema 5 Administracion de memoria",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/ZLeJZ3qoMag",
+            "image":"https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275__340.jpg"
+        }, {
+            "id":"7",
+            "title":"Tema 5 Colocacion de memoria",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/a7P_jB5lNfo",
+            "image":"https://cdn.pixabay.com/photo/2014/12/30/05/42/source-code-583537__340.jpg"
+        }, {
+            "id":"8",
+            "title":"Tema 5 Paginacio de memoria",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/p62BGdLz5FA",
+            "image":"https://cdn.pixabay.com/photo/2015/02/24/02/04/code-647012__340.jpg"
+        }, {
+            "id":"9",
+            "title":"Tema 5 Segmentacion - Paginacion",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/qulYLCjR3fU",
+            "image":"https://cdn.pixabay.com/photo/2015/12/09/15/51/code-1084923__340.png"
+        }, {
+            "id":"10",
+            "title":"Tema 5 Sustitucion de memoria",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/AJvdCEXuaqE",
+            "image":"https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869__340.jpg"
+        }, {
+            "id":"11",
+            "title":"Tema 5 Sustitucion de memoria (Otros algoritmos)",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/HAhMR1Tpqpo",
+            "image":"https://cdn.pixabay.com/photo/2015/02/24/02/04/code-647012__340.jpg"
+        }, {
+            "id":"12",
+            "title":"Tema 6 Sistemas de Archivos",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/TRzlP92Pgps",
+            "image":"https://cdn.pixabay.com/photo/2018/08/28/11/45/code-3637299__340.jpg"
+        }, {
+            "id":"13",
+            "title":"Tema 6 Implementacion de archivos",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/K2f2zr1Xwgc",
+            "image":"https://cdn.pixabay.com/photo/2014/12/11/22/07/pins-564775__340.jpg"
+        }, {
+            "id":"14",
+            "title":"Tema 6 Administracion de espacio de disco",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/vZ87gwr6z6s",
+            "image":"https://cdn.pixabay.com/photo/2018/08/28/11/45/code-3637299__340.jpg"
+        }, {
+            "id":"15",
+            "title":"Sistema de archivos (Windows y GNU/Linux)",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/fVNGV8Tw5NA",
+            "image":"https://cdn.pixabay.com/photo/2014/12/30/05/42/source-code-583537__340.jpg"
+        }, {
+            "id":"16",
+            "title":"Tema 7 Sistema de Entrada/Salida",
+            "course":"TSO",
+            "url":"https://www.youtube.com/embed/LmX20gOnjWw",
+            "image":"https://cdn.pixabay.com/photo/2015/02/24/02/04/code-647012__340.jpg"
+        }, {
+            "id":"17",
+            "title":"Captura de requisitos",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1iTGGOnQRcfwQGmefQDjxly1IFSHZBKu6/preview",
+            "image":"https://images.pexels.com/photos/7374/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"18",
+            "title":"Tecicas de captacion de requisitos",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1CvMPcrTS2wskMJYmx3TCMR6rM_42Re0d/preview",
+            "image":"https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"19",
+            "title":"Requisitos funcionales",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1SXsJhSqqAfXMLjug7ZnCfi-hTTP9-lM-/preview",
+            "image":"https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"20",
+            "title":"Modelamiento casos de uso",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1ydtNGsyQ7vf89NDjb6uCVUKjFM6VaBg8/preview",
+            "image":""
+        }, {
+            "id":"21",
+            "title":"Captura de requisitos",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1eJgBuP0eTeZs7wjvtfbRUUS44akc8GqB/preview",
+            "image":"https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"22",
+            "title":"MCU",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1wGh8BPEopqraqlYtBcShI29Ag6Sxfn52/preview",
+            "image":"https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"23",
+            "title":"Diagramas de clases",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1ATVTHjmMwaLiZuXkXEsnddyBek7fSFr7/preview",
+            "image":"https://images.pexels.com/photos/330771/pexels-photo-330771.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"24",
+            "title":"Ejercicios Diagramas MCU",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1n6w0D1-PWW-N1mpAGXiODAMR_Tnkh894/preview",
+            "image":"https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"25",
+            "title":"Diseño de software",
+            "course":"SIS",
+            "url":"https://drive.google.com/file/d/1wGh8BPEopqraqlYtBcShI29Ag6Sxfn52/preview",
+            "image":"https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }, {
+            "id":"26",
+            "title":"Diagramas de actividades",
+            "course":"SIS",
+            "image":"https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "url":"https://drive.google.com/file/d/1ydtNGsyQ7vf89NDjb6uCVUKjFM6VaBg8/preview"
         }
     ]
 }
